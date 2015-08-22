@@ -1,0 +1,4043 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE books SYSTEM  "books.dtd">
+<books>
+	<entry>
+		<title>श्रीरामकृष्णलीलाप्रसंग</title>
+		<authors>
+			<author>स्वामी सारदानंद (संपूर्ण संच)</author>
+		</authors>
+		<book_code>M183A</book_code>
+		<language>Marathi</language>
+		<category>चरित्रग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्ण चरित्र</title>
+		<authors />
+		<book_code>M001</book_code>
+		<language>Marathi</language>
+		<category>चरित्रग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्ण महिमा</title>
+		<authors />
+		<book_code>M151</book_code>
+		<language>Marathi</language>
+		<category>चरित्रग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्ण : संक्षिप्त चरित्र आणि उपदेश</title>
+		<authors />
+		<book_code>M104</book_code>
+		<language>Marathi</language>
+		<category>चरित्रग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीसारदादेवी</title>
+		<authors>
+			<author>स्वामी अपूर्वानंद</author>
+		</authors>
+		<book_code>M056</book_code>
+		<language>Marathi</language>
+		<category>चरित्रग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्ण चरणाश्रित</title>
+		<authors />
+		<book_code>M214</book_code>
+		<language>Marathi</language>
+		<category>चरित्रग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>करुणारूपिणी माताजी श्रीसारदादेवी</title>
+		<authors />
+		<book_code>M176</book_code>
+		<language>Marathi</language>
+		<category>चरित्रग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीसारदादेवी : संक्षिप्त चरित्र आणि उपदेश</title>
+		<authors />
+		<book_code>M123</book_code>
+		<language>Marathi</language>
+		<category>चरित्रग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीसारदादेवी बोधसुधा</title>
+		<authors />
+		<book_code>M177</book_code>
+		<language>Marathi</language>
+		<category>चरित्रग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्णभक्तमालिका</title>
+		<authors>
+			<author>स्वा.गंभीरानंद (दोन खंडात)</author>
+		</authors>
+		<book_code>M131A</book_code>
+		<language>Marathi</language>
+		<category>चरित्रग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>विश्र्वमानव विवेकानंद (तीन खंडात)</title>
+		<authors />
+		<book_code>M155A</book_code>
+		<language>Marathi</language>
+		<category>चरित्रग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानंद यांचे चरित्र</title>
+		<authors />
+		<book_code>M013</book_code>
+		<language>Marathi</language>
+		<category>चरित्रग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानंद सचित्र जीवन दर्शन</title>
+		<authors />
+		<book_code>M228</book_code>
+		<language>Marathi</language>
+		<category>चरित्रग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानंद संक्षिप्त चरित्र आणि उपदेश</title>
+		<authors />
+		<book_code>M119</book_code>
+		<language>Marathi</language>
+		<category>चरित्रग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामीजींचे चरणाश्रित (सन्याशी शिष्य)</title>
+		<authors />
+		<book_code>M182</book_code>
+		<language>Marathi</language>
+		<category>चरित्रग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी शिवानंद ('महापुरुषजी')</title>
+		<authors />
+		<book_code>M059</book_code>
+		<language>Marathi</language>
+		<category>चरित्रग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>सेवेचा आदर्श</title>
+		<authors>
+			<author>स्वामी रामकृष्णानंद</author>
+		</authors>
+		<book_code>M227</book_code>
+		<language>Marathi</language>
+		<category>चरित्रग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी सारदानंद</title>
+		<authors />
+		<book_code>M070</book_code>
+		<language>Marathi</language>
+		<category>चरित्रग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>अभ्दुतानंदांची  अभ्दुत कहाणी</title>
+		<authors />
+		<book_code>M135</book_code>
+		<language>Marathi</language>
+		<category>चरित्रग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>गिरीशचंद्र घोष</title>
+		<authors />
+		<book_code>M223</book_code>
+		<language>Marathi</language>
+		<category>चरित्रग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी अखंडानंद</title>
+		<authors />
+		<book_code>M097</book_code>
+		<language>Marathi</language>
+		<category>चरित्रग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>साधू नागमहाशय</title>
+		<authors />
+		<book_code>M008</book_code>
+		<language>Marathi</language>
+		<category>चरित्रग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>अघोरमणि व 'गौरी मा'</title>
+		<authors />
+		<book_code>M071</book_code>
+		<language>Marathi</language>
+		<category>चरित्रग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भगिनी निवेदिता</title>
+		<authors />
+		<book_code>M136</book_code>
+		<language>Marathi</language>
+		<category>चरित्रग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>वचनामृतकार श्री 'म'</title>
+		<authors />
+		<book_code>M173</book_code>
+		<language>Marathi</language>
+		<category>चरित्रग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>मर्यादापुरुषोत्तम श्रीराम</title>
+		<authors />
+		<book_code>M150</book_code>
+		<language>Marathi</language>
+		<category>चरित्रग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भगवान श्रीकृष्ण</title>
+		<authors />
+		<book_code>M142</book_code>
+		<language>Marathi</language>
+		<category>चरित्रग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>देवव्रत भीष्म</title>
+		<authors />
+		<book_code>M188</book_code>
+		<language>Marathi</language>
+		<category>चरित्रग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>धर्मराज युधिष्ठिर</title>
+		<authors />
+		<book_code>M189</book_code>
+		<language>Marathi</language>
+		<category>चरित्रग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>आचार्य शंकर</title>
+		<authors />
+		<book_code>M111</book_code>
+		<language>Marathi</language>
+		<category>चरित्रग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्ण वचनामृत (दोन भागांचा संपूर्ण संच)</title>
+		<authors />
+		<book_code>M011A</book_code>
+		<language>Marathi</language>
+		<category>श्रीरामकृष्ण व त्यांच्या शिष्यांचे संभाषणात्मक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>संक्षिप्त श्रीरामकृष्णवचनामृत</title>
+		<authors />
+		<book_code>M211</book_code>
+		<language>Marathi</language>
+		<category>श्रीरामकृष्ण व त्यांच्या शिष्यांचे संभाषणात्मक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीश्रीरामकृष्णकथामृत (बंगाली भाषेतील देवनागरी लिपीत)</title>
+		<authors />
+		<book_code>M145</book_code>
+		<language>Marathi</language>
+		<category>श्रीरामकृष्ण व त्यांच्या शिष्यांचे संभाषणात्मक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्णकथित बोधकथा</title>
+		<authors />
+		<book_code>M225</book_code>
+		<language>Marathi</language>
+		<category>श्रीरामकृष्ण व त्यांच्या शिष्यांचे संभाषणात्मक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>अमृतवाणी</title>
+		<authors />
+		<book_code>M130</book_code>
+		<language>Marathi</language>
+		<category>श्रीरामकृष्ण व त्यांच्या शिष्यांचे संभाषणात्मक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>मातृचरणी (श्रीसारदादेवींची संभाषणे)</title>
+		<authors />
+		<book_code>M110</book_code>
+		<language>Marathi</language>
+		<category>श्रीरामकृष्ण व त्यांच्या शिष्यांचे संभाषणात्मक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>मातृचरणी (माताजी श्रीसारदादेवींची वचने व उपदेश)</title>
+		<authors />
+		<book_code>M179</book_code>
+		<language>Marathi</language>
+		<category>श्रीरामकृष्ण व त्यांच्या शिष्यांचे संभाषणात्मक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>साधक, साधना आणि सिध्दी (स्वामी ब्रहानंदांची संभाषणे)</title>
+		<authors />
+		<book_code>M099</book_code>
+		<language>Marathi</language>
+		<category>श्रीरामकृष्ण व त्यांच्या शिष्यांचे संभाषणात्मक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>अध्यात्ममार्गदीपिका</title>
+		<authors />
+		<book_code>M141</book_code>
+		<language>Marathi</language>
+		<category>श्रीरामकृष्ण व त्यांच्या शिष्यांचे संभाषणात्मक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>प्रिय साधकांनो</title>
+		<authors>
+			<author>(स्वामी तुरीयानंदांची पत्रे)</author>
+		</authors>
+		<book_code>M108</book_code>
+		<language>Marathi</language>
+		<category>श्रीरामकृष्ण व त्यांच्या शिष्यांचे संभाषणात्मक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>आनंदधामाकडे</title>
+		<authors>
+			<author>(स्वामी शिवानंदांची संभाषणे)</author>
+		</authors>
+		<book_code>M107</book_code>
+		<language>Marathi</language>
+		<category>श्रीरामकृष्ण व त्यांच्या शिष्यांचे संभाषणात्मक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी शिवानंद स्मृतिसंग्रह</title>
+		<authors />
+		<book_code>M184</book_code>
+		<language>Marathi</language>
+		<category>श्रीरामकृष्ण व त्यांच्या शिष्यांचे संभाषणात्मक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी प्रेमानंदांच्या सहवासात</title>
+		<authors />
+		<book_code>M162</book_code>
+		<language>Marathi</language>
+		<category>श्रीरामकृष्ण व त्यांच्या शिष्यांचे संभाषणात्मक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी अखंडानंदांच्या सहवासात</title>
+		<authors />
+		<book_code>M126</book_code>
+		<language>Marathi</language>
+		<category>श्रीरामकृष्ण व त्यांच्या शिष्यांचे संभाषणात्मक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्मृतिकथा</title>
+		<authors>
+			<author>स्वामी अखंडानंद</author>
+		</authors>
+		<book_code>M109</book_code>
+		<language>Marathi</language>
+		<category>श्रीरामकृष्ण व त्यांच्या शिष्यांचे संभाषणात्मक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>हिमालयाच्या कुशीत</title>
+		<authors>
+			<author>स्वामी अखंडानंद</author>
+		</authors>
+		<book_code>M020</book_code>
+		<language>Marathi</language>
+		<category>श्रीरामकृष्ण व त्यांच्या शिष्यांचे संभाषणात्मक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विज्ञानानंद यांच्याशी आध्यात्मिक संवाद</title>
+		<authors />
+		<book_code>M180</book_code>
+		<language>Marathi</language>
+		<category>श्रीरामकृष्ण व त्यांच्या शिष्यांचे संभाषणात्मक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>परमार्थाची वाटचाल</title>
+		<authors />
+		<book_code>M069</book_code>
+		<language>Marathi</language>
+		<category>आध्यात्मिक जीवनासंबंधी मार्गदर्शक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>पारमार्थिक जीवन : काही मार्गदर्शन</title>
+		<authors />
+		<book_code>M139</book_code>
+		<language>Marathi</language>
+		<category>आध्यात्मिक जीवनासंबंधी मार्गदर्शक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>वर्तमान युगासाठी आध्यात्मिक आदर्श</title>
+		<authors />
+		<book_code>M117</book_code>
+		<language>Marathi</language>
+		<category>आध्यात्मिक जीवनासंबंधी मार्गदर्शक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>आध्यात्मिक साधना</title>
+		<authors />
+		<book_code>M174</book_code>
+		<language>Marathi</language>
+		<category>आध्यात्मिक जीवनासंबंधी मार्गदर्शक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>धर्माचा गाभा</title>
+		<authors>
+			<author>अनुभव</author>
+		</authors>
+		<book_code>M077</book_code>
+		<language>Marathi</language>
+		<category>आध्यात्मिक जीवनासंबंधी मार्गदर्शक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>मन्त्रपुष्पम्</title>
+		<authors />
+		<book_code>A037*</book_code>
+		<language>Hindi</language>
+		<category>स्तोत्र-स्तवन भजन इत्यादी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>मन्त्रपुष्पम् (पॉकेट साईज)</title>
+		<authors />
+		<book_code>A037A*</book_code>
+		<language>Hindi</language>
+		<category>स्तोत्र-स्तवन भजन इत्यादी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीमद्भगवद्गीता (सार्थ)</title>
+		<authors />
+		<book_code>M132</book_code>
+		<language>Marathi</language>
+		<category>स्तोत्र-स्तवन भजन इत्यादी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्तवनांजली (सार्थ)</title>
+		<authors />
+		<book_code>M140</book_code>
+		<language>Marathi</language>
+		<category>स्तोत्र-स्तवन भजन इत्यादी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्तवनांजली : (मूलमात्रम्)</title>
+		<authors />
+		<book_code>H092</book_code>
+		<language>Hindi</language>
+		<category>स्तोत्र-स्तवन भजन इत्यादी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>ईशस्तवन</title>
+		<authors />
+		<book_code>H127</book_code>
+		<language>Hindi</language>
+		<category>स्तोत्र-स्तवन भजन इत्यादी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भजनांजलि (हिंदी भजने)</title>
+		<authors />
+		<book_code>H098</book_code>
+		<language>Hindi</language>
+		<category>स्तोत्र-स्तवन भजन इत्यादी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>संकीर्तनसंग्रह</title>
+		<authors />
+		<book_code>H111</book_code>
+		<language>Hindi</language>
+		<category>स्तोत्र-स्तवन भजन इत्यादी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामनाम</title>
+		<authors>
+			<author>संकीर्तनम् (मूल संस्कृत तथा हिंदी अनुवाद)</author>
+		</authors>
+		<book_code>H105</book_code>
+		<language>Hindi</language>
+		<category>स्तोत्र-स्तवन भजन इत्यादी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्ण</title>
+		<authors>
+			<author>विवेकानंद जगप्रसिध्द विचारवंतांच्या</author>
+		</authors>
+		<book_code>M195</book_code>
+		<language>Marathi</language>
+		<category>श्रीरामकृष्ण-विषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>वर्तमान जग आणि श्रीरामकृष्ण</title>
+		<authors>
+			<author>विवेकानंद</author>
+		</authors>
+		<book_code>M091</book_code>
+		<language>Marathi</language>
+		<category>श्रीरामकृष्ण-विषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>आधुनिक भारत आणि श्रीरामकृष्ण</title>
+		<authors>
+			<author>विवेकानंद</author>
+		</authors>
+		<book_code>M092</book_code>
+		<language>Marathi</language>
+		<category>श्रीरामकृष्ण-विषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>आमची मुख्य समस्या आणि श्रीरामकृष्ण</title>
+		<authors>
+			<author>विवेकानंद व इतर लेख</author>
+		</authors>
+		<book_code>M093</book_code>
+		<language>Marathi</language>
+		<category>श्रीरामकृष्ण-विषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्ण शिष्यांचे अमेरिकेतील कार्य</title>
+		<authors />
+		<book_code>M128</book_code>
+		<language>Marathi</language>
+		<category>श्रीरामकृष्ण-विषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भगवान बुध्द, श्रीशंकराचार्य आणि स्वामी विवेकानंद (नवीन)</title>
+		<authors />
+		<book_code>M000</book_code>
+		<language>Marathi</language>
+		<category>विवेकानंद-विषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>शिकागोची सर्वधर्मपरिषद</title>
+		<authors />
+		<book_code>M137</book_code>
+		<language>Marathi</language>
+		<category>विवेकानंद-विषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>महाराष्ट्रात स्वामी विवेकानंद</title>
+		<authors />
+		<book_code>M143</book_code>
+		<language>Marathi</language>
+		<category>विवेकानंद-विषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानंद : व्यत्ती एक</title>
+		<authors>
+			<author>पैलू अनेक</author>
+		</authors>
+		<book_code>M192</book_code>
+		<language>Marathi</language>
+		<category>विवेकानंद-विषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानंदांची मातृभत्ती</title>
+		<authors />
+		<book_code>M196</book_code>
+		<language>Marathi</language>
+		<category>विवेकानंद-विषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>मला प्रतीत झालेले माझे गुरु</title>
+		<authors />
+		<book_code>M207</book_code>
+		<language>Marathi</language>
+		<category>विवेकानंद-विषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>माझ्या विवेकानंदांच्या स्मृती</title>
+		<authors />
+		<book_code>M217</book_code>
+		<language>Marathi</language>
+		<category>विवेकानंद-विषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>सवाचे स्वामी विवेकानंद</title>
+		<authors />
+		<book_code>M215</book_code>
+		<language>Marathi</language>
+		<category>विवेकानंद-विषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>यशोसूत्रे</title>
+		<authors />
+		<book_code>100-6</book_code>
+		<language>Hindi</language>
+		<category>विवेकानंद-विषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>रामकृष्ण संघ : एक शतकाची वाटचाल</title>
+		<authors />
+		<book_code>M127</book_code>
+		<language>Marathi</language>
+		<category>रामकृष्ण संघविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>रामकृष्ण संघ</title>
+		<authors>
+			<author>ध्येय व इतिहास (पॉकेट साईझ)</author>
+		</authors>
+		<book_code>M021</book_code>
+		<language>Marathi</language>
+		<category>रामकृष्ण संघविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>नागपूरचे श्रीरामकृष्ण मंदिर</title>
+		<authors />
+		<book_code>M185</book_code>
+		<language>Marathi</language>
+		<category>रामकृष्ण संघविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>ईशोपनिषद (मूळ, अन्वय तथा टीकेसहित)</title>
+		<authors />
+		<book_code>M134</book_code>
+		<language>Marathi</language>
+		<category>शास्त्रग्रंथांचा अभ्यास</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>केनोपनिषद (मूळ, अन्वय तथा टीकेसहित)</title>
+		<authors />
+		<book_code>M138</book_code>
+		<language>Marathi</language>
+		<category>शास्त्रग्रंथांचा अभ्यास</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>कठोपनिषद (मूळ, अन्वय, मराठी सरलार्थ व टीपा)</title>
+		<authors />
+		<book_code>M205</book_code>
+		<language>Marathi</language>
+		<category>शास्त्रग्रंथांचा अभ्यास</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>बृहदारण्यक उपनिषदातील याज्ञवल्क्य</title>
+		<authors>
+			<author>मैत्रेयी संवाद</author>
+		</authors>
+		<book_code>M178</book_code>
+		<language>Marathi</language>
+		<category>शास्त्रग्रंथांचा अभ्यास</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>कठउपनिषदाचे अंतरंग</title>
+		<authors />
+		<book_code>M065</book_code>
+		<language>Marathi</language>
+		<category>शास्त्रग्रंथांचा अभ्यास</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>केन उपनिषदाचे अंतरंग</title>
+		<authors />
+		<book_code>M075</book_code>
+		<language>Marathi</language>
+		<category>शास्त्रग्रंथांचा अभ्यास</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>मुंडक उपनिषदाचे अंतरंग</title>
+		<authors />
+		<book_code>M082</book_code>
+		<language>Marathi</language>
+		<category>शास्त्रग्रंथांचा अभ्यास</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>ईश उपनिषदाचे अंतरंग</title>
+		<authors />
+		<book_code>M074</book_code>
+		<language>Marathi</language>
+		<category>शास्त्रग्रंथांचा अभ्यास</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भगवद्गीतेच्या अंतरंगात</title>
+		<authors />
+		<book_code>M076</book_code>
+		<language>Marathi</language>
+		<category>शास्त्रग्रंथांचा अभ्यास</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>गीतातत्व</title>
+		<authors>
+			<author>स्वामी सारदानंद</author>
+		</authors>
+		<book_code>M121</book_code>
+		<language>Marathi</language>
+		<category>शास्त्रग्रंथांचा अभ्यास</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>आधुनिक मानवाला उपनिषदांचा संदेश</title>
+		<authors />
+		<book_code>M095</book_code>
+		<language>Marathi</language>
+		<category>शास्त्रग्रंथांचा अभ्यास</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वप्नयोग अथवा स्वप्नांचा अर्थ (मांडुक्य उप वर आधारित )</title>
+		<authors />
+		<book_code>M072</book_code>
+		<language>Marathi</language>
+		<category>शास्त्रग्रंथांचा अभ्यास</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>रासलीलेचे अंतरंग</title>
+		<authors />
+		<book_code>M079</book_code>
+		<language>Marathi</language>
+		<category>शास्त्रग्रंथांचा अभ्यास</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीमद् भागवतातील भक्तिनिर्झर</title>
+		<authors />
+		<book_code>M164</book_code>
+		<language>Marathi</language>
+		<category>शास्त्रग्रंथांचा अभ्यास</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>आत्मबोध (मूलमंत्र, मराठी सरलार्थ)</title>
+		<authors />
+		<book_code>M224</book_code>
+		<language>Marathi</language>
+		<category>शास्त्रग्रंथांचा अभ्यास</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>विवेकचूड़ामणि</title>
+		<authors />
+		<book_code>M203</book_code>
+		<language>Marathi</language>
+		<category>शास्त्रग्रंथांचा अभ्यास</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भारतातील शक्तिपूजा</title>
+		<authors>
+			<author>स्वामी सारदानंद</author>
+		</authors>
+		<book_code>M105</book_code>
+		<language>Marathi</language>
+		<category>शास्त्रग्रंथांचा अभ्यास</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>वेदान्त : सिध्दान्त आणि व्यवहार</title>
+		<authors>
+			<author>स्वामी सारदानंद</author>
+		</authors>
+		<book_code>M113</book_code>
+		<language>Marathi</language>
+		<category>शास्त्रग्रंथांचा अभ्यास</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भगवान रामचंद्र म्हणतात -</title>
+		<authors />
+		<book_code>M098</book_code>
+		<language>Marathi</language>
+		<category>उपदेशमाला (पॉकेट साईझ)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भगवान श्रीकृष्ण म्हणतात -</title>
+		<authors />
+		<book_code>M085</book_code>
+		<language>Marathi</language>
+		<category>उपदेशमाला (पॉकेट साईझ)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भगवान बुध्द म्हणतात -</title>
+		<authors />
+		<book_code>M081</book_code>
+		<language>Marathi</language>
+		<category>उपदेशमाला (पॉकेट साईझ)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भगवान महावीर म्हणतात</title>
+		<authors>
+			<author>(नवीन)</author>
+		</authors>
+		<book_code>M000</book_code>
+		<language>Marathi</language>
+		<category>उपदेशमाला (पॉकेट साईझ)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीशंकराचार्य म्हणतात -</title>
+		<authors />
+		<book_code>M080</book_code>
+		<language>Marathi</language>
+		<category>उपदेशमाला (पॉकेट साईझ)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>येशू खिस्त म्हणतात -</title>
+		<authors />
+		<book_code>M086</book_code>
+		<language>Marathi</language>
+		<category>उपदेशमाला (पॉकेट साईझ)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>महंमद पैगंबर म्हणतात -</title>
+		<authors />
+		<book_code>M089</book_code>
+		<language>Marathi</language>
+		<category>उपदेशमाला (पॉकेट साईझ)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>गुरुनानक म्हणतात -</title>
+		<authors />
+		<book_code>M088</book_code>
+		<language>Marathi</language>
+		<category>उपदेशमाला (पॉकेट साईझ)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्ण म्हणतात -</title>
+		<authors />
+		<book_code>M116</book_code>
+		<language>Marathi</language>
+		<category>उपदेशमाला (पॉकेट साईझ)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्ण वाक्सुधा</title>
+		<authors />
+		<book_code>M003</book_code>
+		<language>Marathi</language>
+		<category>उपदेशमाला (पॉकेट साईझ)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीसारदादेवी म्हणतात -</title>
+		<authors />
+		<book_code>M084</book_code>
+		<language>Marathi</language>
+		<category>उपदेशमाला (पॉकेट साईझ)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानंद म्हणतात -</title>
+		<authors />
+		<book_code>M043</book_code>
+		<language>Marathi</language>
+		<category>उपदेशमाला (पॉकेट साईझ)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीज्ञानेश्वर (तत्वदर्शी आणि कवी)</title>
+		<authors />
+		<book_code>M073</book_code>
+		<language>Marathi</language>
+		<category>विविध ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>हिंदू धर्माची रूपरेषा</title>
+		<authors />
+		<book_code>M154</book_code>
+		<language>Marathi</language>
+		<category>विविध ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>हिंदू स्त्री</title>
+		<authors>
+			<author>आजची आणि उघाची</author>
+		</authors>
+		<book_code>M078</book_code>
+		<language>Marathi</language>
+		<category>विविध ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>मातृभूमीसंबंधी आपले कर्तव्य</title>
+		<authors />
+		<book_code>M112</book_code>
+		<language>Marathi</language>
+		<category>विविध ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भारतीय तत्त्वज्ञानातील प्रमाणमीमांसा</title>
+		<authors />
+		<book_code>M198</book_code>
+		<language>Marathi</language>
+		<category>विविध ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>तू परमहंस होशील</title>
+		<authors>
+			<author>स्वामी सर्वगतानंद</author>
+		</authors>
+		<book_code>M186</book_code>
+		<language>Marathi</language>
+		<category>विविध ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>तेथे कर माझे जुळती</title>
+		<authors />
+		<book_code>M181</book_code>
+		<language>Marathi</language>
+		<category>विविध ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>पाठीराखा प्रभू परमेश्वर</title>
+		<authors />
+		<book_code>M175</book_code>
+		<language>Marathi</language>
+		<category>विविध ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>सुवर्णकलश</title>
+		<authors />
+		<book_code>M213</book_code>
+		<language>Marathi</language>
+		<category>विविध ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>वेदान्तानुसार मनाचे स्वरूप</title>
+		<authors />
+		<book_code>M204</book_code>
+		<language>Marathi</language>
+		<category>मनाविषयी वाचनीय पुस्तके</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>मानसिक तणावापासून मुक्ती</title>
+		<authors />
+		<book_code>M209</book_code>
+		<language>Marathi</language>
+		<category>मनाविषयी वाचनीय पुस्तके</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>मन आणि त्याचा निग्रह</title>
+		<authors />
+		<book_code>M122</book_code>
+		<language>Marathi</language>
+		<category>मनाविषयी वाचनीय पुस्तके</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>शाश्वत शांती</title>
+		<authors />
+		<book_code>M153</book_code>
+		<language>Marathi</language>
+		<category>मनाविषयी वाचनीय पुस्तके</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>मनःशांती</title>
+		<authors />
+		<book_code>M144</book_code>
+		<language>Marathi</language>
+		<category>मनाविषयी वाचनीय पुस्तके</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>शोध आनंदाचा</title>
+		<authors />
+		<book_code>M226</book_code>
+		<language>Marathi</language>
+		<category>मनाविषयी वाचनीय पुस्तके</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>मनाच्या एकाग्रतेचे रहस्य (पॉकेट साईझ)</title>
+		<authors />
+		<book_code>M163</book_code>
+		<language>Marathi</language>
+		<category>विघार्थ्यांकरिता वाचनीय पुस्तके</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>हितगुज</title>
+		<authors>
+			<author>विघार्थ्यांशी</author>
+		</authors>
+		<book_code>M171</book_code>
+		<language>Marathi</language>
+		<category>विघार्थ्यांकरिता वाचनीय पुस्तके</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>किशोरांसाठी विवेकानंद</title>
+		<authors />
+		<book_code>M133</book_code>
+		<language>Marathi</language>
+		<category>विघार्थ्यांकरिता वाचनीय पुस्तके</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानंद ग्रंथावली (संपूर्ण दहा खंडांचा संच खर्डा)</title>
+		<authors />
+		<book_code>M027A</book_code>
+		<language>Marathi</language>
+		<category>स्वामी विवेकानंदकृत संपूर्ण वाड्मय समग्र ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानंद ग्रंथावली (संपूर्ण दहा साधी बांधणी)</title>
+		<authors />
+		<book_code>M027A</book_code>
+		<language>Marathi</language>
+		<category>स्वामी विवेकानंदकृत संपूर्ण वाड्मय समग्र ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>योग विषयक सात ग्रंथांचा संपूर्ण संच (बॉक्स)</title>
+		<authors />
+		<book_code>M038A</book_code>
+		<language>Marathi</language>
+		<category>योगविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>ज्ञानयोग</title>
+		<authors />
+		<book_code>M038</book_code>
+		<language>Marathi</language>
+		<category>योगविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>राजयोग</title>
+		<authors />
+		<book_code>M025</book_code>
+		<language>Marathi</language>
+		<category>योगविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>कर्मयोग</title>
+		<authors />
+		<book_code>M009</book_code>
+		<language>Marathi</language>
+		<category>योगविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भक्तियोग</title>
+		<authors />
+		<book_code>M015</book_code>
+		<language>Marathi</language>
+		<category>योगविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>प्रेमयोग</title>
+		<authors />
+		<book_code>M054</book_code>
+		<language>Marathi</language>
+		<category>योगविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>सुबोध राजयोग</title>
+		<authors />
+		<book_code>M050</book_code>
+		<language>Marathi</language>
+		<category>योगविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>ज्ञानमार्गावरील प्रवचने</title>
+		<authors />
+		<book_code>M058</book_code>
+		<language>Marathi</language>
+		<category>योगविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्णांचे दिव्य जीवन</title>
+		<authors />
+		<book_code>M194</book_code>
+		<language>Marathi</language>
+		<category>चरित्रपर ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>माझे गुरुदेव</title>
+		<authors />
+		<book_code>M005</book_code>
+		<language>Marathi</language>
+		<category>चरित्रपर ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>ईशदूत येशू खिस्त</title>
+		<authors />
+		<book_code>M090</book_code>
+		<language>Marathi</language>
+		<category>चरित्रपर ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>पवहारी बाबा</title>
+		<authors />
+		<book_code>M004</book_code>
+		<language>Marathi</language>
+		<category>चरित्रपर ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>महापुरुषांच्या जीवनकथा</title>
+		<authors />
+		<book_code>M012</book_code>
+		<language>Marathi</language>
+		<category>चरित्रपर ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>रामायण</title>
+		<authors />
+		<book_code>M216</book_code>
+		<language>Marathi</language>
+		<category>चरित्रपर ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>महाभारत</title>
+		<authors />
+		<book_code>M220</book_code>
+		<language>Marathi</language>
+		<category>चरित्रपर ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानंदांच्या सहवासात (गुरुशिष्य संवाद)</title>
+		<authors />
+		<book_code>M019</book_code>
+		<language>Marathi</language>
+		<category>संभाषणात्मक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानंदांच्या मुलाखती व प्रश्नोत्तरे</title>
+		<authors />
+		<book_code>M048</book_code>
+		<language>Marathi</language>
+		<category>संभाषणात्मक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानंदांशी संवाद आणि संभाषणे</title>
+		<authors />
+		<book_code>M026</book_code>
+		<language>Marathi</language>
+		<category>संभाषणात्मक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानंदांच्या आठवणी</title>
+		<authors />
+		<book_code>M016</book_code>
+		<language>Marathi</language>
+		<category>संभाषणात्मक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>विवेकवाणी</title>
+		<authors />
+		<book_code>M158</book_code>
+		<language>Marathi</language>
+		<category>संभाषणात्मक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>आम्ही पाहिलेले स्वामी विवेकानंद</title>
+		<authors />
+		<book_code>M159</book_code>
+		<language>Marathi</language>
+		<category>संभाषणात्मक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानंदांबरोबर परिभ्रमण</title>
+		<authors />
+		<book_code>M170</book_code>
+		<language>Marathi</language>
+		<category>संभाषणात्मक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>हिंदूधर्म</title>
+		<authors />
+		<book_code>M066</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>हिंदुधर्माचे पुनरुत्थान</title>
+		<authors />
+		<book_code>M006</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>विचारणीय गोष्टी</title>
+		<authors />
+		<book_code>M062</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भारताची आध्यात्मिक विचारधारा</title>
+		<authors />
+		<book_code>M061</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>धर्मभूमी भारत आणि इतर लिखाणा</title>
+		<authors />
+		<book_code>M064</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>धर्माचे स्वरूप आणि साधन</title>
+		<authors />
+		<book_code>M063</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>जीवनाचे उद्दिष्ट</title>
+		<authors />
+		<book_code>M051</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>सार्वजनीन धर्म : स्वरूप व साधना</title>
+		<authors />
+		<book_code>M041</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>वेदान्ताचे स्वरूप आणि प्रभाव</title>
+		<authors />
+		<book_code>M039</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>कठोपनिषद (स्वामी विवेकानंदांच्या शब्दांतून) (नवीन)</title>
+		<authors />
+		<book_code>M000</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>वेदान्त आणि जीवन (ज्ञानयोगाचा पूरक ग्रंथ)</title>
+		<authors />
+		<book_code>M018</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>उच्च जीवनाची साधना</title>
+		<authors />
+		<book_code>M057</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>आत्मसाक्षात्कार : साधना व सिध्दी</title>
+		<authors />
+		<book_code>M047</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>पुनर्जन्म आणि आत्म्याचे अमरत्व</title>
+		<authors />
+		<book_code>M040</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भगवान श्रीकृष्ण आणि भगवद्गीता</title>
+		<authors />
+		<book_code>M053</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भगवान बुध्द आणि त्यांची शिकवण</title>
+		<authors />
+		<book_code>M120</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>मानवाचे खरे स्वरूप आणि विविध भाषणे</title>
+		<authors />
+		<book_code>M067</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>दैवीवाणी (उच्च आध्यात्मिक उपदेश)</title>
+		<authors />
+		<book_code>M037</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>विवेकाची आनंदवीणा (आध्यात्मिक कविता)</title>
+		<authors />
+		<book_code>M046</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>दिव्य प्रेम</title>
+		<authors />
+		<book_code>M042</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>वेदान्त</title>
+		<authors />
+		<book_code>M212</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>आत्मतत्व</title>
+		<authors />
+		<book_code>M166</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>ध्यान आणि त्याच्या पध्दती</title>
+		<authors />
+		<book_code>M172</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानंद ग्रंथावली संचयन (खर्डा)</title>
+		<authors />
+		<book_code>M124A</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानंद ग्रंथावली संचयन (साधी बांधणी)</title>
+		<authors />
+		<book_code>M124</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानंदांची पत्रे</title>
+		<authors />
+		<book_code>M024</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भारतीय व्याख्याने</title>
+		<authors />
+		<book_code>M045</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>माझा भारत</title>
+		<authors>
+			<author>अमर भारत</author>
+		</authors>
+		<book_code>M200</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भारताचे पुनर्जागरण</title>
+		<authors />
+		<book_code>M222</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>हे भारता ऊठ! जागा हो!!</title>
+		<authors />
+		<book_code>M210</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>आधुनिक भारत</title>
+		<authors />
+		<book_code>M052</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भारत आणि त्याच्या पुढील समस्या</title>
+		<authors />
+		<book_code>M218</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भारताचा भावी काळ</title>
+		<authors />
+		<book_code>M087</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>नवा भारत घडवा</title>
+		<authors />
+		<book_code>M101</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानंद</title>
+		<authors>
+			<author>राष्ट्राला आवाहन</author>
+		</authors>
+		<book_code>M114</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>तरुणांना आवाहन</title>
+		<authors />
+		<book_code>M115</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>शिक्षण</title>
+		<authors />
+		<book_code>M010</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>आदर्श शिक्षण</title>
+		<authors />
+		<book_code>M206</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>मन आणि त्याची शक्ती</title>
+		<authors />
+		<book_code>M125</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भारतीय नारी</title>
+		<authors />
+		<book_code>M023</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>पूर्व आणि पश्चिम</title>
+		<authors />
+		<book_code>M017</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>परिव्राजक (युरोपच्या प्रवासाची दैनंदिनी)</title>
+		<authors />
+		<book_code>M049</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>जाति, संस्कृती आणि समाजवाद</title>
+		<authors />
+		<book_code>M201</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>शिकागो व्याख्याने</title>
+		<authors />
+		<book_code>M007</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>व्यक्तिमत्व विकास</title>
+		<authors />
+		<book_code>M165</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>अग्निमंत्र</title>
+		<authors />
+		<book_code>M168</book_code>
+		<language>Marathi</language>
+		<category>धर्म व अध्यात्मविषयक ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>माझे जीवन आणि कार्य</title>
+		<authors />
+		<book_code>M022</book_code>
+		<language>Marathi</language>
+		<category>पॉकेट साईझ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>माझ्या मोहिमेची योजना</title>
+		<authors />
+		<book_code>M044</book_code>
+		<language>Marathi</language>
+		<category>पॉकेट साईझ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>शक्तिदायी विचार</title>
+		<authors />
+		<book_code>M014</book_code>
+		<language>Marathi</language>
+		<category>पॉकेट साईझ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>उग्दार आणि बोधवचने</title>
+		<authors />
+		<book_code>M055</book_code>
+		<language>Marathi</language>
+		<category>पॉकेट साईझ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानंदांचे पाश्चात्य जगातील जीवितकार्य</title>
+		<authors />
+		<book_code>M096</book_code>
+		<language>Marathi</language>
+		<category>पॉकेट साईझ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>सफलतेचे रहस्य</title>
+		<authors />
+		<book_code>M169</book_code>
+		<language>Marathi</language>
+		<category>पॉकेट साईझ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>कर्म आणि त्याचे रहस्य</title>
+		<authors />
+		<book_code>M187</book_code>
+		<language>Marathi</language>
+		<category>पॉकेट साईझ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>यश प्राप्तीचा मार्ग</title>
+		<authors />
+		<book_code>M221</book_code>
+		<language>Marathi</language>
+		<category>पॉकेट साईझ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>अमृत संदेश</title>
+		<authors />
+		<book_code>M208</book_code>
+		<language>Marathi</language>
+		<category>पॉकेट साईझ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्ण : चित्रमय चरित्र</title>
+		<authors />
+		<book_code>M129</book_code>
+		<language>Marathi</language>
+		<category>लहान मुलांकरिता पुस्तके</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीसारदादेवी चित्रमय चरित्र</title>
+		<authors />
+		<book_code>M146</book_code>
+		<language>Marathi</language>
+		<category>लहान मुलांकरिता पुस्तके</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानंद : चित्रमय चरित्र</title>
+		<authors />
+		<book_code>M149</book_code>
+		<language>Marathi</language>
+		<category>लहान मुलांकरिता पुस्तके</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानंदांच्या बोधकथा</title>
+		<authors />
+		<book_code>M147</book_code>
+		<language>Marathi</language>
+		<category>लहान मुलांकरिता पुस्तके</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानंदांनी सांगितलेल्या गोष्टी</title>
+		<authors />
+		<book_code>M152</book_code>
+		<language>Marathi</language>
+		<category>लहान मुलांकरिता पुस्तके</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>नरेन्द्र ते वीर संन्यासी विवेकानंद</title>
+		<authors />
+		<book_code>M229</book_code>
+		<language>Marathi</language>
+		<category>लहान मुलांकरिता पुस्तके</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानंद (प्लास्टिक कोटेड पॉकेट पोस्टर)</title>
+		<authors />
+		<book_code>M401</book_code>
+		<language>Marathi</language>
+		<category>इतर (फोटो/पोस्टर)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्ण (प्लास्टिक कोटेड पॉकेट पोस्टर)</title>
+		<authors />
+		<book_code>M408</book_code>
+		<language>Marathi</language>
+		<category>इतर (फोटो/पोस्टर)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>अमृतमंत्र (स्वामी विवेकानंदांचा संदेश) (पोस्टर)</title>
+		<authors />
+		<book_code>M501</book_code>
+		<language>Marathi</language>
+		<category>इतर (फोटो/पोस्टर)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भगवद्गीतेचे सौंदर्य आणि सामर्थ्य</title>
+		<authors />
+		<book_code>M197</book_code>
+		<language>Marathi</language>
+		<category>स्वामी रंगनाथानंदकृत काही ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>उपनिषदांचा संदेश</title>
+		<authors />
+		<book_code>M183</book_code>
+		<language>Marathi</language>
+		<category>स्वामी रंगनाथानंदकृत काही ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>विज्ञान आणि अध्यात्म</title>
+		<authors />
+		<book_code>M148</book_code>
+		<language>Marathi</language>
+		<category>स्वामी रंगनाथानंदकृत काही ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>गृहस्थांचे आध्यात्मिक जीवन</title>
+		<authors />
+		<book_code>M160</book_code>
+		<language>Marathi</language>
+		<category>स्वामी रंगनाथानंदकृत काही ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>वेदान्तप्रणीत सत्याचा मार्ग</title>
+		<authors />
+		<book_code>M161</book_code>
+		<language>Marathi</language>
+		<category>स्वामी रंगनाथानंदकृत काही ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>जीवन</title>
+		<authors>
+			<author>जिज्ञासा</author>
+		</authors>
+		<book_code>M167</book_code>
+		<language>Marathi</language>
+		<category>स्वामी रंगनाथानंदकृत काही ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>आधुनिक युगातील स्त्रिया</title>
+		<authors />
+		<book_code>M190</book_code>
+		<language>Marathi</language>
+		<category>स्वामी रंगनाथानंदकृत काही ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>आधुनिक भारताची उभारणी : शिक्षकांची भूमिका</title>
+		<authors />
+		<book_code>M191</book_code>
+		<language>Marathi</language>
+		<category>स्वामी रंगनाथानंदकृत काही ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>मुले : मानवतेचे सर्वश्रेष्ठ धन</title>
+		<authors />
+		<book_code>M193</book_code>
+		<language>Marathi</language>
+		<category>स्वामी रंगनाथानंदकृत काही ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>इंडोनेशियातील व्याख्यान दौत्याच्चा माइया आठवणी</title>
+		<authors />
+		<book_code>M202</book_code>
+		<language>Marathi</language>
+		<category>स्वामी रंगनाथानंदकृत काही ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>कॅनडा अमेरिका येथील पहिल्या व्याख्यान दौत्याचा वृत्तांत</title>
+		<authors />
+		<book_code>M219</book_code>
+		<language>Marathi</language>
+		<category>स्वामी रंगनाथानंदकृत काही ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>जीवनाचा अर्थ : उपनिषदांच्या प्रकाशात</title>
+		<authors />
+		<book_code>M199</book_code>
+		<language>Marathi</language>
+		<category>स्वामी रंगनाथानंदकृत काही ग्रंथ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्ण लीलाप्रसंग</title>
+		<authors>
+			<author>स्वामी सारदानन्द (दो खण्डों का सेट)</author>
+		</authors>
+		<book_code>H060A</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्ण लीलामृत</title>
+		<authors>
+			<author>श्री न. रा. परांजपे</author>
+		</authors>
+		<book_code>H003</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>परमहंस चरित</title>
+		<authors>
+			<author>स्वामी विज्ञानानन्द</author>
+		</authors>
+		<book_code>H125</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्ण महिमा</title>
+		<authors>
+			<author>अक्षयकुमार सेन</author>
+		</authors>
+		<book_code>H129</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्ण की अन्त्यलीला</title>
+		<authors>
+			<author>स्वामी प्रभानन्द</author>
+		</authors>
+		<book_code>H141</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्ण : संक्षिप्त जीवनी तथा उपदेश</title>
+		<authors>
+			<author>स्वामी अपूर्वानन्द</author>
+		</authors>
+		<book_code>H100</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्ण :जैसा हमने उन्हें देखा</title>
+		<authors>
+			<author>स्वामी चेतनानन्द</author>
+		</authors>
+		<book_code>H159</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्ण और श्री माँ</title>
+		<authors />
+		<book_code>H063</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>माँ सारदा</title>
+		<authors>
+			<author>स्वामी अपूर्वानन्द</author>
+		</authors>
+		<book_code>H056</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>करुणामयी माँ सारदा</title>
+		<authors>
+			<author>ब्र. अक्षय चैतन्य</author>
+		</authors>
+		<book_code>H167</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीसारदादेवी : संक्षिप्त जीवनी तथा उपदेश</title>
+		<authors>
+			<author>स्वामी अपूर्वानन्द</author>
+		</authors>
+		<book_code>H101</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>मातृदर्शन</title>
+		<authors>
+			<author>स्वामी ब्रहोशानन्द</author>
+		</authors>
+		<book_code>H170</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्णभक्तमालिका</title>
+		<authors>
+			<author>स्वामी गम्भीरानन्द (दो भागों का पूरा सेट)</author>
+		</authors>
+		<book_code>H078A</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>विवेकानन्द चरित</title>
+		<authors>
+			<author>श्री सत्येन्द्रनाथ मजूमदार</author>
+		</authors>
+		<book_code>H021</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>युगनायक विवेकानन्द</title>
+		<authors>
+			<author>स्वामी गम्भीरानन्द (तीन खण्डों का सेट)</author>
+		</authors>
+		<book_code>H122A</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानन्द सचित्र जीवन दर्शन</title>
+		<authors />
+		<book_code>H211</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानन्द : संक्षिप्त जीवनी तथा उपदेश</title>
+		<authors>
+			<author>स्वामी अपूर्वानन्द</author>
+		</authors>
+		<book_code>H103</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी ब्रहाानन्द चरित</title>
+		<authors />
+		<book_code>H172</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी शिवानन्द</title>
+		<authors>
+			<author>स्वामी शिवतत्वानन्द</author>
+		</authors>
+		<book_code>H096</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>जीवन्मुक्त तुरीयानन्द</title>
+		<authors>
+			<author>स्वामी जगदीश्वरानन्द</author>
+		</authors>
+		<book_code>H169</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>अभ्दुत संत अभ्दुतानन्द</title>
+		<authors>
+			<author>श्री चन्द्रशेखर चट्टोपाध्याय</author>
+		</authors>
+		<book_code>H115</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>सेवादर्श के आलोक में स्वामी रामकृष्णानन्द</title>
+		<authors />
+		<book_code>H194</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी सारदानन्द</title>
+		<authors>
+			<author>स्वामी प्रभानन्द</author>
+		</authors>
+		<book_code>H151</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी अखण्डानन्द</title>
+		<authors>
+			<author>स्वामी अत्रदानन्द</author>
+		</authors>
+		<book_code>H161</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विज्ञानानन्द</title>
+		<authors>
+			<author>स्वामी विश्वाश्रयानन्द</author>
+		</authors>
+		<book_code>H110</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>साधु नागमहाशय</title>
+		<authors>
+			<author>श्री शरच्चन्द्र चक्रवर्ती</author>
+		</authors>
+		<book_code>H055</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>सिस्टर निवेदिता</title>
+		<authors>
+			<author>प्रव्राजिका आत्मप्राणा</author>
+		</authors>
+		<book_code>H139</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>आचार्य शंकर</title>
+		<authors>
+			<author>स्वामी अपूर्वानन्द</author>
+		</authors>
+		<book_code>H076</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्ण वचनामृत</title>
+		<authors>
+			<author>श्री 'म' (दो खण्डों का सेट)</author>
+		</authors>
+		<book_code>H001A</book_code>
+		<language>Hindi</language>
+		<category>श्रीरामकृष्ण-श्रीमाँ तथा उनके शिष्यों के संभाषणात्मक ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्णवचनामृतप्रसंग</title>
+		<authors>
+			<author>स्वामी भूतेशानन्द (चार भागों का पूरा सेट)</author>
+		</authors>
+		<book_code>H112A</book_code>
+		<language>Hindi</language>
+		<category>श्रीरामकृष्ण-श्रीमाँ तथा उनके शिष्यों के संभाषणात्मक ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्ण वचनामृतसार</title>
+		<authors>
+			<author>श्री 'म'</author>
+		</authors>
+		<book_code>H113</book_code>
+		<language>Hindi</language>
+		<category>श्रीरामकृष्ण-श्रीमाँ तथा उनके शिष्यों के संभाषणात्मक ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्ण कथित बोधकथाएँ</title>
+		<authors />
+		<book_code>H204</book_code>
+		<language>Hindi</language>
+		<category>श्रीरामकृष्ण-श्रीमाँ तथा उनके शिष्यों के संभाषणात्मक ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>अमृतवाणी (श्रीरामकृष्णदेव के उपसेशों का बृहत् संग्रह)</title>
+		<authors />
+		<book_code>H095</book_code>
+		<language>Hindi</language>
+		<category>श्रीरामकृष्ण-श्रीमाँ तथा उनके शिष्यों के संभाषणात्मक ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>माँ की स्नेहछाया में</title>
+		<authors>
+			<author>स्वामी सारदेशानन्द</author>
+		</authors>
+		<book_code>H106</book_code>
+		<language>Hindi</language>
+		<category>श्रीरामकृष्ण-श्रीमाँ तथा उनके शिष्यों के संभाषणात्मक ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>माँ के सात्रिध्य में</title>
+		<authors>
+			<author>स्वामी ईशानानन्द</author>
+		</authors>
+		<book_code>H134</book_code>
+		<language>Hindi</language>
+		<category>श्रीरामकृष्ण-श्रीमाँ तथा उनके शिष्यों के संभाषणात्मक ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>माँ की बातें</title>
+		<authors />
+		<book_code>H135</book_code>
+		<language>Hindi</language>
+		<category>श्रीरामकृष्ण-श्रीमाँ तथा उनके शिष्यों के संभाषणात्मक ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>आनन्दधाम की और (धर्म</title>
+		<authors>
+			<author>प्रसंग में स्वामी शिवानन्द)</author>
+		</authors>
+		<book_code>H052</book_code>
+		<language>Hindi</language>
+		<category>श्रीरामकृष्ण-श्रीमाँ तथा उनके शिष्यों के संभाषणात्मक ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी शिवानन्द स्मृतिसंग्रह (तीन खण्डों का पूरा सेट)</title>
+		<authors />
+		<book_code>H075A</book_code>
+		<language>Hindi</language>
+		<category>श्रीरामकृष्ण-श्रीमाँ तथा उनके शिष्यों के संभाषणात्मक ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>अध्यात्ममार्गप्रदीप (स्वामी तुरीयानन्दजी के वार्तालाप)</title>
+		<authors />
+		<book_code>H099</book_code>
+		<language>Hindi</language>
+		<category>श्रीरामकृष्ण-श्रीमाँ तथा उनके शिष्यों के संभाषणात्मक ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>साधकों के नाम पत्र (स्वामी तुरीयानन्द के पत्रों का संकलन)</title>
+		<authors />
+		<book_code>H120</book_code>
+		<language>Hindi</language>
+		<category>श्रीरामकृष्ण-श्रीमाँ तथा उनके शिष्यों के संभाषणात्मक ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी अखण्डानन्द के सात्रिध्य में</title>
+		<authors>
+			<author>स्वामी निरामयानन्द</author>
+		</authors>
+		<book_code>H128</book_code>
+		<language>Hindi</language>
+		<category>श्रीरामकृष्ण-श्रीमाँ तथा उनके शिष्यों के संभाषणात्मक ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भगवान रामकृष्ण : धर्म तथा संघ</title>
+		<authors />
+		<book_code>H018</book_code>
+		<language>Hindi</language>
+		<category>श्रीरामकृष्ण संघ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्ण संघ की संध्या आरती तथा स्तोत्र</title>
+		<authors />
+		<book_code>H131</book_code>
+		<language>Hindi</language>
+		<category>श्रीरामकृष्ण संघ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्ण संघ का होमकुण्ड</title>
+		<authors>
+			<author>वराहनगर मठ</author>
+		</authors>
+		<book_code>H201</book_code>
+		<language>Hindi</language>
+		<category>श्रीरामकृष्ण संघ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>रामकृष्ण संघ : आदर्श और इतिहास</title>
+		<authors>
+			<author>स्वामी तेजसानन्द</author>
+		</authors>
+		<book_code>H058</book_code>
+		<language>Hindi</language>
+		<category>श्रीरामकृष्ण संघ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>रामकृष्ण मठ एवं रामकृष्ण मिशन : इतिहास, आदर्श तथा कार्य</title>
+		<authors />
+		<book_code>H214</book_code>
+		<language>Hindi</language>
+		<category>श्रीरामकृष्ण संघ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भगवन श्रीरामकृष्णदेव का सार्वजनीन मन्दिर</title>
+		<authors />
+		<book_code>H174</book_code>
+		<language>Hindi</language>
+		<category>श्रीरामकृष्ण संघ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>पुण्यतीर्थ जयरामवाटी का मातृमन्दिर</title>
+		<authors />
+		<book_code>H168</book_code>
+		<language>Hindi</language>
+		<category>श्रीरामकृष्ण संघ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्ण भावधारा</title>
+		<authors>
+			<author>स्वामी ब्रहोशानन्द</author>
+		</authors>
+		<book_code>H195</book_code>
+		<language>Hindi</language>
+		<category>श्रीरामकृष्ण संघ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>जितने मत उतने पथ</title>
+		<authors />
+		<book_code>H116</book_code>
+		<language>Hindi</language>
+		<category>श्रीरामकृष्ण संघ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>ध्यान, धर्म तथा साधना</title>
+		<authors>
+			<author>स्वामी ब्रहाानन्द</author>
+		</authors>
+		<book_code>H093</book_code>
+		<language>Hindi</language>
+		<category>ध्यान-साधना</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>ध्यान और आध्यात्मिक जीवन</title>
+		<authors>
+			<author>स्वामी यतीश्वरानन्द</author>
+		</authors>
+		<book_code>H140</book_code>
+		<language>Hindi</language>
+		<category>ध्यान-साधना</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>ध्यान (रामकृष्ण संघ के संन्यासियों दारा विवेचन)</title>
+		<authors />
+		<book_code>H154</book_code>
+		<language>Hindi</language>
+		<category>ध्यान-साधना</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>परमार्थ प्रसंग</title>
+		<authors>
+			<author>स्वामी विरजानन्द</author>
+		</authors>
+		<book_code>H038</book_code>
+		<language>Hindi</language>
+		<category>ध्यान-साधना</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>परम लक्ष्य प्राप्ति हेतु कतिपय दिशा</title>
+		<authors>
+			<author>निर्देश</author>
+		</authors>
+		<book_code>H501</book_code>
+		<language>Hindi</language>
+		<category>ध्यान-साधना</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>धर्मजीवन तथा साधना</title>
+		<authors>
+			<author>स्वामी यतीश्वरानन्द</author>
+		</authors>
+		<book_code>H094</book_code>
+		<language>Hindi</language>
+		<category>ध्यान-साधना</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>ईश्वर की खोज</title>
+		<authors>
+			<author>स्वामी यतीश्वरानन्द</author>
+		</authors>
+		<book_code>H114</book_code>
+		<language>Hindi</language>
+		<category>ध्यान-साधना</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>ईश्वर प्राप्ति के उपाय</title>
+		<authors>
+			<author>स्वामी भूतेशानन्द</author>
+		</authors>
+		<book_code>H117</book_code>
+		<language>Hindi</language>
+		<category>ध्यान-साधना</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>ईशावास्य</title>
+		<authors>
+			<author>उपनिषद्</author>
+		</authors>
+		<book_code>H162</book_code>
+		<language>Hindi</language>
+		<category>शास्त्र ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>केन</title>
+		<authors>
+			<author>उपनिषद्</author>
+		</authors>
+		<book_code>H163</book_code>
+		<language>Hindi</language>
+		<category>शास्त्र ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>वेदान्तसार</title>
+		<authors>
+			<author>अनु.: स्वामी विदेहात्मानन्द</author>
+		</authors>
+		<book_code>H164</book_code>
+		<language>Hindi</language>
+		<category>शास्त्र ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीमद्भगवद्गीता (हिन्दी अर्थसहित) (पॉकेट साईज)</title>
+		<authors />
+		<book_code>H109</book_code>
+		<language>Hindi</language>
+		<category>शास्त्र ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीमद्भगवद्गीता (हिन्दी टीकासहित)</title>
+		<authors />
+		<book_code>H108</book_code>
+		<language>Hindi</language>
+		<category>शास्त्र ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>गीता का मर्म</title>
+		<authors>
+			<author>स्वामी शिवतत्वानन्द</author>
+		</authors>
+		<book_code>H184</book_code>
+		<language>Hindi</language>
+		<category>शास्त्र ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>संपूर्ण गीतासार</title>
+		<authors>
+			<author>स्वामी हर्षानन्द</author>
+		</authors>
+		<book_code>H118</book_code>
+		<language>Hindi</language>
+		<category>शास्त्र ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>नारद भक्तिसूत्र</title>
+		<authors>
+			<author>स्वामी वेदान्तानन्द</author>
+		</authors>
+		<book_code>H132</book_code>
+		<language>Hindi</language>
+		<category>शास्त्र ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>वैराग्य</title>
+		<authors>
+			<author>शतकम् (भर्तृहरी कृत)</author>
+		</authors>
+		<book_code>H190</book_code>
+		<language>Hindi</language>
+		<category>शास्त्र ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>नीति</title>
+		<authors>
+			<author>शतकम् (भर्तृहरी कृत)</author>
+		</authors>
+		<book_code>H192</book_code>
+		<language>Hindi</language>
+		<category>शास्त्र ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>मन्त्रपुष्पम्* (वेदपाठ)</title>
+		<authors />
+		<book_code>A037</book_code>
+		<language>Hindi</language>
+		<category>स्तोत्र-स्तवन-भजन आदि</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>मन्त्रपुष्पम्* (वेदपाठ</title>
+		<authors>
+			<author>पाकेट साईज)</author>
+		</authors>
+		<book_code>A037A</book_code>
+		<language>Hindi</language>
+		<category>स्तोत्र-स्तवन-भजन आदि</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्तवनाज्जलिः (मुलमात्रम्)</title>
+		<authors />
+		<book_code>H092</book_code>
+		<language>Hindi</language>
+		<category>स्तोत्र-स्तवन-भजन आदि</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भजनांजलि</title>
+		<authors />
+		<book_code>H098</book_code>
+		<language>Hindi</language>
+		<category>स्तोत्र-स्तवन-भजन आदि</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>ईशस्तवन</title>
+		<authors />
+		<book_code>H127</book_code>
+		<language>Hindi</language>
+		<category>स्तोत्र-स्तवन-भजन आदि</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामनामसंकीर्तनम् (अनुवाद व हनुमान चालिसा सहित)</title>
+		<authors />
+		<book_code>H105</book_code>
+		<language>Hindi</language>
+		<category>स्तोत्र-स्तवन-भजन आदि</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामनामसंकीर्तन की कहानी</title>
+		<authors />
+		<book_code>H202</book_code>
+		<language>Hindi</language>
+		<category>स्तोत्र-स्तवन-भजन आदि</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>संकीर्तनसंग्रह</title>
+		<authors />
+		<book_code>H111</book_code>
+		<language>Hindi</language>
+		<category>स्तोत्र-स्तवन-भजन आदि</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>विवेक गीतांजलि</title>
+		<authors />
+		<book_code>H199</book_code>
+		<language>Hindi</language>
+		<category>स्तोत्र-स्तवन-भजन आदि</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भागवत कथा</title>
+		<authors />
+		<book_code>H206</book_code>
+		<language>Hindi</language>
+		<category>धर्म-दर्शन-अध्यात्म</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>देवतात्मा हिमालय</title>
+		<authors>
+			<author>स्वामी अखण्डानन्द</author>
+		</authors>
+		<book_code>H144</book_code>
+		<language>Hindi</language>
+		<category>धर्म-दर्शन-अध्यात्म</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>गीतातत्व</title>
+		<authors>
+			<author>स्वामी सारदानन्द</author>
+		</authors>
+		<book_code>H047</book_code>
+		<language>Hindi</language>
+		<category>धर्म-दर्शन-अध्यात्म</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भारत में शक्तिपूजा</title>
+		<authors>
+			<author>स्वामी सारदानन्द</author>
+		</authors>
+		<book_code>H057</book_code>
+		<language>Hindi</language>
+		<category>धर्म-दर्शन-अध्यात्म</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>वेदान्त : सिध्दान्त और व्यवहार</title>
+		<authors>
+			<author>स्वामी सारदानन्द</author>
+		</authors>
+		<book_code>H051</book_code>
+		<language>Hindi</language>
+		<category>धर्म-दर्शन-अध्यात्म</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>प्रभु परमेश्वर जब रक्षा करें</title>
+		<authors>
+			<author>स्वामी जपानान्द</author>
+		</authors>
+		<book_code>H166</book_code>
+		<language>Hindi</language>
+		<category>धर्म-दर्शन-अध्यात्म</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्ण पूजापध्दति</title>
+		<authors />
+		<book_code>H091</book_code>
+		<language>Hindi</language>
+		<category>धर्म-दर्शन-अध्यात्म</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामचन्द्र की वाणी</title>
+		<authors />
+		<book_code>H090</book_code>
+		<language>Hindi</language>
+		<category>उपदेशमाला (पॉकेट साईझ)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भगवान श्रीकृष्ण की वाणी</title>
+		<authors />
+		<book_code>H089</book_code>
+		<language>Hindi</language>
+		<category>उपदेशमाला (पॉकेट साईझ)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भगवान बुध्द की वाणी</title>
+		<authors />
+		<book_code>H088</book_code>
+		<language>Hindi</language>
+		<category>उपदेशमाला (पॉकेट साईझ)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीशंकराचार्य की वाणी</title>
+		<authors />
+		<book_code>H083</book_code>
+		<language>Hindi</language>
+		<category>उपदेशमाला (पॉकेट साईझ)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>गुरुनानक की वाणी</title>
+		<authors />
+		<book_code>H084</book_code>
+		<language>Hindi</language>
+		<category>उपदेशमाला (पॉकेट साईझ)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>ईसामसीह की वाणी</title>
+		<authors />
+		<book_code>H087</book_code>
+		<language>Hindi</language>
+		<category>उपदेशमाला (पॉकेट साईझ)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>मुहम्मद पैगम्बर की वाणी</title>
+		<authors />
+		<book_code>H086</book_code>
+		<language>Hindi</language>
+		<category>उपदेशमाला (पॉकेट साईझ)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भगवान महावीर की वाणी</title>
+		<authors />
+		<book_code>H126</book_code>
+		<language>Hindi</language>
+		<category>उपदेशमाला (पॉकेट साईझ)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्णदेव की वाणी</title>
+		<authors />
+		<book_code>H082</book_code>
+		<language>Hindi</language>
+		<category>उपदेशमाला (पॉकेट साईझ)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीसारदादेवी की वाणी</title>
+		<authors />
+		<book_code>H085</book_code>
+		<language>Hindi</language>
+		<category>उपदेशमाला (पॉकेट साईझ)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानन्द की वाणी</title>
+		<authors />
+		<book_code>H054</book_code>
+		<language>Hindi</language>
+		<category>उपदेशमाला (पॉकेट साईझ)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्ण</title>
+		<authors>
+			<author>उपदेश</author>
+		</authors>
+		<book_code>H039</book_code>
+		<language>Hindi</language>
+		<category>उपदेशमाला (पॉकेट साईझ)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>मन की शान्ति</title>
+		<authors>
+			<author>स्वामी रामकृष्णानन्द</author>
+		</authors>
+		<book_code>H130</book_code>
+		<language>Hindi</language>
+		<category>मन विषयक पठनीय पुस्तकें</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>मन और उसका निग्रह*</title>
+		<authors />
+		<book_code>022-0</book_code>
+		<language>Hindi</language>
+		<category>मन विषयक पठनीय पुस्तकें</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>मानसिक तनाव से मुक्ति के उपाय</title>
+		<authors>
+			<author>स्वामी गोकुलानन्द</author>
+		</authors>
+		<book_code>H145</book_code>
+		<language>Hindi</language>
+		<category>मन विषयक पठनीय पुस्तकें</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>मौनयोग</title>
+		<authors>
+			<author>स्वामी परमानन्द</author>
+		</authors>
+		<book_code>H148</book_code>
+		<language>Hindi</language>
+		<category>मन विषयक पठनीय पुस्तकें</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>शान्ति और धन्यता का दिव्य पथ</title>
+		<authors>
+			<author>स्वामी परमानन्द</author>
+		</authors>
+		<book_code>H149</book_code>
+		<language>Hindi</language>
+		<category>मन विषयक पठनीय पुस्तकें</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>एकाग्रता का रहस्य (पॉकेट साईज)</title>
+		<authors />
+		<book_code>H150</book_code>
+		<language>Hindi</language>
+		<category>मन विषयक पठनीय पुस्तकें</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>उपनिषदों का सन्देश</title>
+		<authors>
+			<author>स्वामी रंगनाथानन्द</author>
+		</authors>
+		<book_code>H142</book_code>
+		<language>Hindi</language>
+		<category>स्वामी रंगनाथानन्द लिखित पुस्तकें</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>उपनिषदों की मनोहारिता व शक्ति</title>
+		<authors>
+			<author>स्वामी रंगनाथानन्द</author>
+		</authors>
+		<book_code>H146</book_code>
+		<language>Hindi</language>
+		<category>स्वामी रंगनाथानन्द लिखित पुस्तकें</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भगवद्गीता का सार्वजनीन सन्देश (तीन खण्डों का सेट)</title>
+		<authors />
+		<book_code>H181A</book_code>
+		<language>Hindi</language>
+		<category>स्वामी रंगनाथानन्द लिखित पुस्तकें</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीमद्भगवद्गीता का विश्वजनीन निर्देश</title>
+		<authors>
+			<author>स्वामी रंगनाथानन्द</author>
+		</authors>
+		<book_code>H188</book_code>
+		<language>Hindi</language>
+		<category>स्वामी रंगनाथानन्द लिखित पुस्तकें</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीमद्भागवत का मूल विषय</title>
+		<authors>
+			<author>स्वामी रंगनाथानन्द</author>
+		</authors>
+		<book_code>H189</book_code>
+		<language>Hindi</language>
+		<category>स्वामी रंगनाथानन्द लिखित पुस्तकें</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>दैवीकृपा</title>
+		<authors>
+			<author>स्वामी रंगनाथानन्द</author>
+		</authors>
+		<book_code>H147</book_code>
+		<language>Hindi</language>
+		<category>स्वामी रंगनाथानन्द लिखित पुस्तकें</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>जिज्ञासा और बोध</title>
+		<authors>
+			<author>स्वामी रंगनाथानन्द</author>
+		</authors>
+		<book_code>H173</book_code>
+		<language>Hindi</language>
+		<category>स्वामी रंगनाथानन्द लिखित पुस्तकें</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>परिवर्तनशील समाज के लिए शाश्वत मूल्य भाग</title>
+		<authors>
+			<author>स्वामी रंगनाथानन्द</author>
+		</authors>
+		<book_code>H143</book_code>
+		<language>Hindi</language>
+		<category>स्वामी रंगनाथानन्द लिखित पुस्तकें</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>व्यावहारिक वेदान्त के आलोक में लोकतांत्रिक प्रशासन</title>
+		<authors />
+		<book_code>H155</book_code>
+		<language>Hindi</language>
+		<category>स्वामी रंगनाथानन्द लिखित पुस्तकें</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>प्रबुध्द नागरिकता और हमारा लोकतांत्रिक राष्ट्र</title>
+		<authors />
+		<book_code>H133</book_code>
+		<language>Hindi</language>
+		<category>स्वामी रंगनाथानन्द लिखित पुस्तकें</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>आधुनिक भारत के निर्माण में शिक्षकों का कर्तव्य, दायित्व</title>
+		<authors />
+		<book_code>H176</book_code>
+		<language>Hindi</language>
+		<category>स्वामी रंगनाथानन्द लिखित पुस्तकें</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>आधुनिक युग में नारी</title>
+		<authors />
+		<book_code>H179</book_code>
+		<language>Hindi</language>
+		<category>स्वामी रंगनाथानन्द लिखित पुस्तकें</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>बच्चे मानवता की महानतम् धरोहर</title>
+		<authors />
+		<book_code>H180</book_code>
+		<language>Hindi</language>
+		<category>स्वामी रंगनाथानन्द लिखित पुस्तकें</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>मातृभूमि के प्रति हमारा कर्तव्य</title>
+		<authors>
+			<author>स्वामी वीरेश्वरानन्द</author>
+		</authors>
+		<book_code>H102</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>हमारी शिक्षा</title>
+		<authors>
+			<author>स्वामी निर्वेदानन्द</author>
+		</authors>
+		<book_code>H152</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>मानवता की झाँकी</title>
+		<authors>
+			<author>स्वामी जपानन्द</author>
+		</authors>
+		<book_code>H175</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>तुम परमहंस हो जाओगे</title>
+		<authors>
+			<author>स्वामी सर्वगतानन्द</author>
+		</authors>
+		<book_code>H177</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>आत्माराम की आत्मकथा</title>
+		<authors>
+			<author>स्वामी जपानन्द</author>
+		</authors>
+		<book_code>H196</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>आनंदमय जीवन के सूत्र</title>
+		<authors>
+			<author>स्वामी सत्यरूपानन्द</author>
+		</authors>
+		<book_code>H207</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>सुखी और सफल जीवन</title>
+		<authors>
+			<author>स्वामी सत्यरूपानन्द</author>
+		</authors>
+		<book_code>H208</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>महाभारत मुक्ता</title>
+		<authors>
+			<author>स्वामी सत्यरूपानन्द</author>
+		</authors>
+		<book_code>H209</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>जीवन विकास के सोपान</title>
+		<authors>
+			<author>स्वामी सत्यरूपानन्द</author>
+		</authors>
+		<book_code>H213</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानन्द का महाराष्ट्र</title>
+		<authors>
+			<author>भ्रमण</author>
+		</authors>
+		<book_code>H165</book_code>
+		<language>Hindi</language>
+		<category>स्वामी विवेकानन्द विषयक ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>शिकागो की विश्वधर्म महासभा</title>
+		<authors />
+		<book_code>H121</book_code>
+		<language>Hindi</language>
+		<category>स्वामी विवेकानन्द विषयक ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>किशोरों के विवेकानन्द</title>
+		<authors />
+		<book_code>H119</book_code>
+		<language>Hindi</language>
+		<category>स्वामी विवेकानन्द विषयक ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानन्द की मातृभक्ति</title>
+		<authors />
+		<book_code>H203</book_code>
+		<language>Hindi</language>
+		<category>स्वामी विवेकानन्द विषयक ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानन्द मनिषियों की दृष्टि में</title>
+		<authors />
+		<book_code>H205</book_code>
+		<language>Hindi</language>
+		<category>स्वामी विवेकानन्द विषयक ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानन्द स्वरूप और सन्देश</title>
+		<authors />
+		<book_code>H210</book_code>
+		<language>Hindi</language>
+		<category>स्वामी विवेकानन्द विषयक ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>उघमिता के सूत्र</title>
+		<authors />
+		<book_code>H???</book_code>
+		<language>Hindi</language>
+		<category>स्वामी विवेकानन्द विषयक ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्मृति सीमा के पार</title>
+		<authors />
+		<book_code>H???</book_code>
+		<language>Hindi</language>
+		<category>स्वामी विवेकानन्द विषयक ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वप्र जगत में</title>
+		<authors>
+			<author>स्वामी विवेकानन्द के साथ चैतू</author>
+		</authors>
+		<book_code>H???</book_code>
+		<language>Hindi</language>
+		<category>स्वामी विवेकानन्द विषयक ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>नेतृत्व सूत्र</title>
+		<authors />
+		<book_code>H???</book_code>
+		<language>Hindi</language>
+		<category>स्वामी विवेकानन्द विषयक ग्रन्थ</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>योगविषयक 7 ग्रन्थों का पूरा सेट</title>
+		<authors />
+		<book_code>H041A</book_code>
+		<language>Hindi</language>
+		<category>स्वामी विवेकानन्दकृत सम्पूर्ण साहित्य योग</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>ज्ञानयोग</title>
+		<authors />
+		<book_code>H041</book_code>
+		<language>Hindi</language>
+		<category>स्वामी विवेकानन्दकृत सम्पूर्ण साहित्य योग</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>राजयोग (पातंजल योगसूत्र, सूत्रार्थ और व्याख्यासहित)</title>
+		<authors />
+		<book_code>H011</book_code>
+		<language>Hindi</language>
+		<category>स्वामी विवेकानन्दकृत सम्पूर्ण साहित्य योग</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>प्रेमयोग</title>
+		<authors />
+		<book_code>H012</book_code>
+		<language>Hindi</language>
+		<category>स्वामी विवेकानन्दकृत सम्पूर्ण साहित्य योग</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>कर्मयोग</title>
+		<authors />
+		<book_code>H014</book_code>
+		<language>Hindi</language>
+		<category>स्वामी विवेकानन्दकृत सम्पूर्ण साहित्य योग</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भक्तियोग</title>
+		<authors />
+		<book_code>H010</book_code>
+		<language>Hindi</language>
+		<category>स्वामी विवेकानन्दकृत सम्पूर्ण साहित्य योग</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>ज्ञानयोग पर प्रवचन</title>
+		<authors />
+		<book_code>H068</book_code>
+		<language>Hindi</language>
+		<category>स्वामी विवेकानन्दकृत सम्पूर्ण साहित्य योग</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>सरल राजयोग</title>
+		<authors />
+		<book_code>H042</book_code>
+		<language>Hindi</language>
+		<category>स्वामी विवेकानन्दकृत सम्पूर्ण साहित्य योग</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>धर्मविज्ञान</title>
+		<authors />
+		<book_code>H020</book_code>
+		<language>Hindi</language>
+		<category>धर्म तथा अध्यात्म</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>धर्मतत्व</title>
+		<authors />
+		<book_code>H070</book_code>
+		<language>Hindi</language>
+		<category>धर्म तथा अध्यात्म</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>धर्मरहस्य</title>
+		<authors />
+		<book_code>H025</book_code>
+		<language>Hindi</language>
+		<category>धर्म तथा अध्यात्म</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>ध्यान तथा इसकी पध्दतियाँ</title>
+		<authors />
+		<book_code>H171</book_code>
+		<language>Hindi</language>
+		<category>धर्म तथा अध्यात्म</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>हिन्दुधर्म</title>
+		<authors />
+		<book_code>H017</book_code>
+		<language>Hindi</language>
+		<category>धर्म तथा अध्यात्म</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>हिन्दुधर्म के पक्ष में</title>
+		<authors />
+		<book_code>H023</book_code>
+		<language>Hindi</language>
+		<category>धर्म तथा अध्यात्म</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>शिकागो वत्कृता</title>
+		<authors />
+		<book_code>H009</book_code>
+		<language>Hindi</language>
+		<category>धर्म तथा अध्यात्म</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>नारदभक्तिसूत्र एवं भक्तिविवेचन</title>
+		<authors />
+		<book_code>H069</book_code>
+		<language>Hindi</language>
+		<category>धर्म तथा अध्यात्म</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भगवान श्रीकृष्ण और भगवद्गीता</title>
+		<authors />
+		<book_code>H066</book_code>
+		<language>Hindi</language>
+		<category>धर्म तथा अध्यात्म</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भगवान बुध्द तथा उनका सन्देश</title>
+		<authors />
+		<book_code>H073</book_code>
+		<language>Hindi</language>
+		<category>धर्म तथा अध्यात्म</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>देववाणी (उच्च आध्यात्मिक उपदेश)</title>
+		<authors />
+		<book_code>H045</book_code>
+		<language>Hindi</language>
+		<category>धर्म तथा अध्यात्म</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>विवेकलहरी (आध्यात्मिक अनुभूतिमय काव्य)</title>
+		<authors />
+		<book_code>H033</book_code>
+		<language>Hindi</language>
+		<category>धर्म तथा अध्यात्म</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>वेदान्त</title>
+		<authors />
+		<book_code>H067</book_code>
+		<language>Hindi</language>
+		<category>धर्म तथा अध्यात्म</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>व्यावहारिक जीवन में वेदान्त</title>
+		<authors />
+		<book_code>H046</book_code>
+		<language>Hindi</language>
+		<category>धर्म तथा अध्यात्म</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>आत्मतत्व</title>
+		<authors />
+		<book_code>H071</book_code>
+		<language>Hindi</language>
+		<category>धर्म तथा अध्यात्म</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>आत्मानुभूति तथा उसके मार्ग</title>
+		<authors />
+		<book_code>H002</book_code>
+		<language>Hindi</language>
+		<category>धर्म तथा अध्यात्म</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>मरणोत्तर जीवन</title>
+		<authors />
+		<book_code>H031</book_code>
+		<language>Hindi</language>
+		<category>धर्म तथा अध्यात्म</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>महापुरुषों की जीवनगाथाएँ</title>
+		<authors />
+		<book_code>H028</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>मेरे गुरुदेव</title>
+		<authors />
+		<book_code>H007</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>ईशदूत ईसा</title>
+		<authors />
+		<book_code>H044</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>पवहारी बाबा</title>
+		<authors />
+		<book_code>H024</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>रामायण</title>
+		<authors />
+		<book_code>H197</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>महाभारत</title>
+		<authors />
+		<book_code>H198</book_code>
+		<language>Hindi</language>
+		<category>जीवनी</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>विवेकानन्दजी के संग में</title>
+		<authors />
+		<book_code>H019</book_code>
+		<language>Hindi</language>
+		<category>सम्भाषणात्मक</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानन्दजी से वार्तालाप</title>
+		<authors />
+		<book_code>H035</book_code>
+		<language>Hindi</language>
+		<category>सम्भाषणात्मक</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>विवेकानन्दजी के संस्मरण</title>
+		<authors />
+		<book_code>H037</book_code>
+		<language>Hindi</language>
+		<category>सम्भाषणात्मक</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>विवेकानन्दजी के सात्रिध्य में</title>
+		<authors />
+		<book_code>H005</book_code>
+		<language>Hindi</language>
+		<category>सम्भाषणात्मक</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>विवेकवाणी (स्वामी विवेकानन्द की शिक्षाएँ)</title>
+		<authors />
+		<book_code>H160</book_code>
+		<language>Hindi</language>
+		<category>सम्भाषणात्मक</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>विवेकानन्द साहित्य संचयन (सजिल्द)(महत्वपूर्ण व्याख्यान, लेख, पत्र, काव्य आदि का प्रातिनिधिक संचयन)</title>
+		<authors />
+		<book_code>H064A</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>विवेकानन्द साहित्य संचयन (अजिल्द)</title>
+		<authors />
+		<book_code>H064</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>हे भारत उठो ! जागो !</title>
+		<authors />
+		<book_code>H032</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>पत्रावली</title>
+		<authors />
+		<book_code>H036</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भारतीय व्याख्यान</title>
+		<authors />
+		<book_code>H030</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भारत का ऐतिहासिक क्रमविकास एवं अन्य प्रबन्ध</title>
+		<authors />
+		<book_code>H072</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>हमारा भारत</title>
+		<authors />
+		<book_code>H048</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>वर्तमान भारत</title>
+		<authors />
+		<book_code>H006</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भारत का भविष्य</title>
+		<authors />
+		<book_code>H107</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>नया भारत गढ़ो</title>
+		<authors />
+		<book_code>H097</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भारतीय नारी</title>
+		<authors />
+		<book_code>H027</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>जाति, संस्कृति और समाजवाद</title>
+		<authors />
+		<book_code>H043</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>शिक्षा</title>
+		<authors />
+		<book_code>H026</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>शिक्षा का आदर्श</title>
+		<authors />
+		<book_code>H185</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>सार्वलौकिक नीति तथा सदाचार</title>
+		<authors />
+		<book_code>H074</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>विविध प्रसंग</title>
+		<authors />
+		<book_code>H050</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>चिन्तनीय बातें</title>
+		<authors />
+		<book_code>H049</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>परिव्राजक (मेरी भ्रमणकहानी)</title>
+		<authors />
+		<book_code>H016</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>प्राच्य और पाश्चात्य</title>
+		<authors />
+		<book_code>H008</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>मेरा भारत अमर भारत</title>
+		<authors />
+		<book_code>H186</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>युवकों के प्रति</title>
+		<authors />
+		<book_code>H104</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>विवेकानन्दः राष्ट्र को आह्वान</title>
+		<authors />
+		<book_code>H077</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>व्यक्तित्व का विकास</title>
+		<authors />
+		<book_code>H153</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भारत और उसकी समस्याएँ</title>
+		<authors />
+		<book_code>H156</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>अग्निमन्त्र</title>
+		<authors />
+		<book_code>H158</book_code>
+		<language>Hindi</language>
+		<category>विविध</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>शक्तिदायी विचार</title>
+		<authors />
+		<book_code>H059</book_code>
+		<language>Hindi</language>
+		<category>पॉकेट साइज</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>सूक्तियाँ एवं सुभाषित</title>
+		<authors />
+		<book_code>H065</book_code>
+		<language>Hindi</language>
+		<category>पॉकेट साइज</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>मेरी समरनीति</title>
+		<authors />
+		<book_code>H015</book_code>
+		<language>Hindi</language>
+		<category>पॉकेट साइज</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>मेरा जीवन तथा ध्येय</title>
+		<authors />
+		<book_code>H029</book_code>
+		<language>Hindi</language>
+		<category>पॉकेट साइज</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>मन की शक्तियाँ तथा जीवन</title>
+		<authors>
+			<author>गठन की साधनाएँ</author>
+		</authors>
+		<book_code>H040</book_code>
+		<language>Hindi</language>
+		<category>पॉकेट साइज</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>कर्म तथा उसका रहस्य</title>
+		<authors />
+		<book_code>H178</book_code>
+		<language>Hindi</language>
+		<category>पॉकेट साइज</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>सफलता के सोपान</title>
+		<authors />
+		<book_code>H200</book_code>
+		<language>Hindi</language>
+		<category>पॉकेट साइज</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>उत्तिष्ठ जागृत चित्रप्रदर्शनी</title>
+		<authors />
+		<book_code>H212</book_code>
+		<language>Hindi</language>
+		<category>पॉकेट साइज</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>साधना और सिध्दि</title>
+		<authors />
+		<book_code>021-7</book_code>
+		<language>Hindi</language>
+		<category>अन्यत्र प्रकाशित पुस्तकें* (इन पुस्तकों पर केवल 25% छूट दी जाएगी)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>समाधि के सोपान</title>
+		<authors />
+		<book_code>055-6</book_code>
+		<language>Hindi</language>
+		<category>अन्यत्र प्रकाशित पुस्तकें* (इन पुस्तकों पर केवल 25% छूट दी जाएगी)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>धर्म क्यों ?</title>
+		<authors />
+		<book_code>061-1</book_code>
+		<language>Hindi</language>
+		<category>अन्यत्र प्रकाशित पुस्तकें* (इन पुस्तकों पर केवल 25% छूट दी जाएगी)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीमाँसारदादेवी</title>
+		<authors>
+			<author>(स्वामी गम्भीरानन्द)</author>
+		</authors>
+		<book_code>096-4</book_code>
+		<language>Hindi</language>
+		<category>अन्यत्र प्रकाशित पुस्तकें* (इन पुस्तकों पर केवल 25% छूट दी जाएगी)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्ण के दिव्य दर्शन</title>
+		<authors />
+		<book_code>045-4</book_code>
+		<language>Hindi</language>
+		<category>अन्यत्र प्रकाशित पुस्तकें* (इन पुस्तकों पर केवल 25% छूट दी जाएगी)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>पुनर्जन्म क्यों और कैसे ?</title>
+		<authors />
+		<book_code>092-1</book_code>
+		<language>Hindi</language>
+		<category>अन्यत्र प्रकाशित पुस्तकें* (इन पुस्तकों पर केवल 25% छूट दी जाएगी)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानन्द का मानवतावाद</title>
+		<authors />
+		<book_code>029-2</book_code>
+		<language>Hindi</language>
+		<category>अन्यत्र प्रकाशित पुस्तकें* (इन पुस्तकों पर केवल 25% छूट दी जाएगी)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>हिन्दूधर्म</title>
+		<authors>
+			<author>प्रश्नोत्तरमालिका</author>
+		</authors>
+		<book_code>178-7</book_code>
+		<language>Hindi</language>
+		<category>अन्यत्र प्रकाशित पुस्तकें* (इन पुस्तकों पर केवल 25% छूट दी जाएगी)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>हिन्दूधर्म का सार्वभौमतत्व</title>
+		<authors />
+		<book_code>096-4</book_code>
+		<language>Hindi</language>
+		<category>अन्यत्र प्रकाशित पुस्तकें* (इन पुस्तकों पर केवल 25% छूट दी जाएगी)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानन्द : सचित्र जीवनी (सस्ता संस्करण)</title>
+		<authors />
+		<book_code>014-x</book_code>
+		<language>Hindi</language>
+		<category>अन्यत्र प्रकाशित पुस्तकें* (इन पुस्तकों पर केवल 25% छूट दी जाएगी)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>योग क्या है?</title>
+		<authors />
+		<book_code>091-3</book_code>
+		<language>Hindi</language>
+		<category>अन्यत्र प्रकाशित पुस्तकें* (इन पुस्तकों पर केवल 25% छूट दी जाएगी)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>विवेकानन्द : एक जीवनी</title>
+		<authors />
+		<book_code>042-5</book_code>
+		<language>Hindi</language>
+		<category>अन्यत्र प्रकाशित पुस्तकें* (इन पुस्तकों पर केवल 25% छूट दी जाएगी)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>विवेकानन्द की जीवनी (रोमाँ रोलाँ)</title>
+		<authors />
+		<book_code>196-5</book_code>
+		<language>Hindi</language>
+		<category>अन्यत्र प्रकाशित पुस्तकें* (इन पुस्तकों पर केवल 25% छूट दी जाएगी)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्ण : सचित्र जीवनी</title>
+		<authors />
+		<book_code>325-9</book_code>
+		<language>Hindi</language>
+		<category>अन्यत्र प्रकाशित पुस्तकें* (इन पुस्तकों पर केवल 25% छूट दी जाएगी)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>विज्ञान और आध्यात्मिकता</title>
+		<authors />
+		<book_code>046-2</book_code>
+		<language>Hindi</language>
+		<category>अन्यत्र प्रकाशित पुस्तकें* (इन पुस्तकों पर केवल 25% छूट दी जाएगी)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्ण की जीवनी (रोमाँ रोलाँ)</title>
+		<authors />
+		<book_code>066-7</book_code>
+		<language>Hindi</language>
+		<category>अन्यत्र प्रकाशित पुस्तकें* (इन पुस्तकों पर केवल 25% छूट दी जाएगी)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीकृष्ण की जीवनी</title>
+		<authors />
+		<book_code>054-3</book_code>
+		<language>Hindi</language>
+		<category>अन्यत्र प्रकाशित पुस्तकें* (इन पुस्तकों पर केवल 25% छूट दी जाएगी)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>इच्छा शक्ति और उसका विकास</title>
+		<authors />
+		<book_code>062-x</book_code>
+		<language>Hindi</language>
+		<category>अन्यत्र प्रकाशित पुस्तकें* (इन पुस्तकों पर केवल 25% छूट दी जाएगी)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>चरित्र निर्माण कैसे करें ?</title>
+		<authors />
+		<book_code>184-1</book_code>
+		<language>Hindi</language>
+		<category>अन्यत्र प्रकाशित पुस्तकें* (इन पुस्तकों पर केवल 25% छूट दी जाएगी)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>प्रेरक प्रसंग</title>
+		<authors />
+		<book_code>324-0</book_code>
+		<language>Hindi</language>
+		<category>अन्यत्र प्रकाशित पुस्तकें* (इन पुस्तकों पर केवल 25% छूट दी जाएगी)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>जीना सीखो</title>
+		<authors>
+			<author>जीने की कला</author>
+		</authors>
+		<book_code>239-2</book_code>
+		<language>Hindi</language>
+		<category>अन्यत्र प्रकाशित पुस्तकें* (इन पुस्तकों पर केवल 25% छूट दी जाएगी)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>साधना की तैयारी</title>
+		<authors />
+		<book_code>256-2</book_code>
+		<language>Hindi</language>
+		<category>अन्यत्र प्रकाशित पुस्तकें* (इन पुस्तकों पर केवल 25% छूट दी जाएगी)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>आध्यात्मिक जीवन क्यों और कैसे ?</title>
+		<authors />
+		<book_code>266-x</book_code>
+		<language>Hindi</language>
+		<category>अन्यत्र प्रकाशित पुस्तकें* (इन पुस्तकों पर केवल 25% छूट दी जाएगी)</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्ण की जीवन कथा</title>
+		<authors />
+		<book_code>148-5</book_code>
+		<language>Hindi</language>
+		<category>बच्चों के लिए पुस्तकें</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्ण की कहानियाँ</title>
+		<authors />
+		<book_code>074-3</book_code>
+		<language>Hindi</language>
+		<category>बच्चों के लिए पुस्तकें</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>बच्चों के श्रीरामकृष्ण</title>
+		<authors />
+		<book_code>A028</book_code>
+		<language>Hindi</language>
+		<category>बच्चों के लिए पुस्तकें</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीसारदादेवी की जीवनकथा</title>
+		<authors />
+		<book_code>068-9</book_code>
+		<language>Hindi</language>
+		<category>बच्चों के लिए पुस्तकें</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>विवेकानन्द की कहानी</title>
+		<authors />
+		<book_code>066-2</book_code>
+		<language>Hindi</language>
+		<category>बच्चों के लिए पुस्तकें</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>विवेकानन्द की बोधकथाएँ</title>
+		<authors />
+		<book_code>-070-9</book_code>
+		<language>Hindi</language>
+		<category>बच्चों के लिए पुस्तकें</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>श्रीरामकृष्ण</title>
+		<authors>
+			<author>कथाचित्रमाला</author>
+		</authors>
+		<book_code>064-0</book_code>
+		<language>Hindi</language>
+		<category>बच्चों के लिए पुस्तकें</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>विवेकानन्द की मनोरम कहानियाँ</title>
+		<authors />
+		<book_code>072-7</book_code>
+		<language>Hindi</language>
+		<category>बच्चों के लिए पुस्तकें</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>बच्चों के विवेकानन्द</title>
+		<authors />
+		<book_code>461-7</book_code>
+		<language>Hindi</language>
+		<category>बच्चों के लिए पुस्तकें</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>बच्चों की माँ सारदा</title>
+		<authors />
+		<book_code>460-9</book_code>
+		<language>Hindi</language>
+		<category>बच्चों के लिए पुस्तकें</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>सिंह शावक हरि</title>
+		<authors />
+		<book_code>006 - 9</book_code>
+		<language>Hindi</language>
+		<category>बच्चों के लिए पुस्तकें</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>* विवेकानन्द साहित्य (सस्ता) (10 खण्ड का सेट)</title>
+		<authors />
+		<book_code>155-8</book_code>
+		<language>Hindi</language>
+		<category>बच्चों के लिए पुस्तकें</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>अमृत</title>
+		<authors>
+			<author>मन्त्र</author>
+		</authors>
+		<book_code>H502</book_code>
+		<language>Hindi</language>
+		<category>पोस्टर</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>महात्मा</title>
+		<authors>
+			<author>मन्त्र</author>
+		</authors>
+		<book_code>H503</book_code>
+		<language>Hindi</language>
+		<category>पोस्टर</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>सेवक</title>
+		<authors>
+			<author>मन्त्र</author>
+		</authors>
+		<book_code>H504</book_code>
+		<language>Hindi</language>
+		<category>पोस्टर</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>शक्ति</title>
+		<authors>
+			<author>मन्त्र</author>
+		</authors>
+		<book_code>H505</book_code>
+		<language>Hindi</language>
+		<category>पोस्टर</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>बल</title>
+		<authors>
+			<author>मन्त्र</author>
+		</authors>
+		<book_code>H506</book_code>
+		<language>Hindi</language>
+		<category>पोस्टर</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>भलाई</title>
+		<authors>
+			<author>मन्त्र</author>
+		</authors>
+		<book_code>H507</book_code>
+		<language>Hindi</language>
+		<category>पोस्टर</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>मातृ</title>
+		<authors>
+			<author>मन्त्र</author>
+		</authors>
+		<book_code>H508</book_code>
+		<language>Hindi</language>
+		<category>पोस्टर</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वदेश</title>
+		<authors>
+			<author>मन्त्र</author>
+		</authors>
+		<book_code>H509</book_code>
+		<language>Hindi</language>
+		<category>पोस्टर</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>लखोटा (सेवक</title>
+		<authors>
+			<author>मन्त्र)</author>
+		</authors>
+		<book_code>H510</book_code>
+		<language>Hindi</language>
+		<category>पोस्टर</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>उत्तिष्ठत ! जाग्रत !! (चित्रप्रदर्शनी) (चालीस फ्लेक्स चित्र)</title>
+		<authors />
+		<book_code>FLX</book_code>
+		<language>Hindi</language>
+		<category>पोस्टर</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>स्वामी विवेकानन्द (प्लास्टीक कोटेड पॉकेट कार्ड)</title>
+		<authors />
+		<book_code>H401</book_code>
+		<language>Hindi</language>
+		<category>पोस्टर</category>
+		<price></price>
+	</entry>
+</books>
